@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "heyaroomairflow.data.unityweb",
+"asmCodeUrl": "heyaroomairflow.asm.code.unityweb",
+"asmMemoryUrl": "heyaroomairflow.asm.memory.unityweb",
+"asmFrameworkUrl": "heyaroomairflow.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
